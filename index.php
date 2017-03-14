@@ -68,31 +68,29 @@
 					</header>
 					<ul>
 						<li><a href="index.html">Acceuil</a></li>
-						<li><a href="generic.html">Generic</a></li>
-						<li><a href="elements.html">Elements</a></li>
 						<li>
 							<span class="opener">Nos instituts</span>
 							<ul>
-								<li><a href="#">Lorem Dolor</a></li>
-								<li><a href="#">Ipsum Adipiscing</a></li>
-								<li><a href="#">Tempus Magna</a></li>
-								<li><a href="#">Feugiat Veroeros</a></li>
+								<li><a href="#">Chavagne en paillers</a></li>
+								<li><a href="#">St Georges de Montaigu</a></li>
+								<li><a href="#">Les essarts</a></li>
+								<li><a href="#">St Fulgent</a></li>
 							</ul>
 						</li>
 						<li><a href="#">Nos préstations</a></li>
 						<li>
 							<span class="opener">Tarif</span>
 							<ul>
-								<li><a href="#">Lorem Dolor</a></li>
-								<li><a href="#">Ipsum Adipiscing</a></li>
+								<li><a href="#">Tarif aqualigne</a></li>
+								<li><a href="#">tarif harmony et alyzé</a></li>
 							</ul>
 						</li>
 						<li><a href="#">Actualité</a></li>
 						<li>
 							<span class="opener">Bon cadeau</span>
 							<ul>
-								<li><a href="#">Lorem Dolor</a></li>
-								<li><a href="#">Ipsum Adipiscing</a></li>
+								<li><a href="#">Chèque cadeau harmony et alyzé</a></li>
+								<li><a href="#">Chèque cadeau aqualigne</a></li>
 							</ul>
 						</li>
 					</ul>
