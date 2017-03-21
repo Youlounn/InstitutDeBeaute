@@ -22,11 +22,33 @@
 
 				<!-- Header -->
 				<header id="header">
-					<a href="index.html" class="logo"><strong>Institut de beauté</strong></a>
+					<a href="index.php" class="logo"><strong>Institut de beauté</strong></a>
 				</header>
 
 				<!-- Banner -->
-				<section id="banner">
+				<section id="banner" class="chavagne">
+					<div class="content">
+						<p>Chavagne en paillers</p>
+						</br>
+						<p>Institut HARMONY </br> 102 r Gén de Gaulle – 85250 CHAVAGNES EN PAILLERS </br> Tel: 02 51 42 30 46 </br> Horaires d’ ouverture : </br> mardi,mercredi, jeudi et vendredi : 9h30 – 12h30  14h30 – 19h </br> samedi : 8h-13h </br> possibilité de  prendre rendez-vous entre 12h30 et 14h30
+					</div>
+				</section>
+				<section id="banner" class="georges">
+					<div class="content">
+						<p>St Georges de Montaigu</p>
+					</div>
+				</section>
+				<section id="banner" class="essarts">
+					<div class="content">
+						<p>Les essarts</p>
+					</div>
+				</section>
+				<section id="banner" class="fulgent">
+					<div class="content">
+						<p>St Fulgent</p>
+					</div>
+				</section>
+				<section id="banner" class="acceuil">
 					<div class="content">
 						<header>
 							<h2>St Fulgent – Chavagnes en paillers – Les Essarts – St Georges de Montaigu</h2>
@@ -67,14 +89,14 @@
 						<h2>Menu</h2>
 					</header>
 					<ul>
-						<li><a href="index.html">Acceuil</a></li>
+						<li><a id="menuacceuil">Acceuil</a></li>
 						<li>
 							<span class="opener">Nos instituts</span>
 							<ul>
-								<li><a href="#">Chavagne en paillers</a></li>
-								<li><a href="#">St Georges de Montaigu</a></li>
-								<li><a href="#">Les essarts</a></li>
-								<li><a href="#">St Fulgent</a></li>
+								<li><a href="#" id="menuchavagne">Chavagne en paillers</a></li>
+								<li><a href="#" id="menugeorges">St Georges de Montaigu</a></li>
+								<li><a href="#" id="menuessarts">Les essarts</a></li>
+								<li><a href="#" id="menufulgent">St Fulgent</a></li>
 							</ul>
 						</li>
 						<li><a href="#">Nos préstations</a></li>
@@ -147,6 +169,7 @@
 	<script src="assets/js/jquery.min.js"></script>
 	<script src="assets/js/skel.min.js"></script>
 	<script src="assets/js/util.js"></script>
+	<script src="assets/js/onglets.js"></script>
 	<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
 	<script src="assets/js/main.js"></script>
 
