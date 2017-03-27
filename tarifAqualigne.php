@@ -2,7 +2,7 @@
 <html>
 
 <head>
-	<title>Institut de beauté Harmonie et Aqualigne - Chavagne en paillers</title>
+	<title>Institut de beauté Harmonie et Aqualigne - Tarif Aqualigne</title>
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 	<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
@@ -30,35 +30,79 @@
 				<!-- Banner -->
 				<section id="banner" class="acceuil">
 					<div class="content">
-
-						<ul class="bxslider" style="width: auto; position: relative;">
-							<li><img src="images/pic01.jpg" title="Institut de beauté de Chavagnes en Paillers" /></li>
-							<li><img src="images/pic05.jpg" title="Institut de beauté de Chavagnes en Paillers" /></li>
-						</ul>
 						<header>
-							<h2>Institut de beauté Chavagnes en paillers</h2>
+							<h2>Tarifs institut de beauté Aqualigne Les Essarts</h2>
 						</header>
-						<blockquote>
-							Institut HARMONY
-							102 r Gén de Gaulle – 85250 CHAVAGNES EN PAILLERS
-							Tel: 02 51 42 30 46
-							Horaires d’ ouverture :
-							mardi,mercredi, jeudi et vendredi : 9h30 – 12h30  14h30 – 19h
-							samedi : 8h-13h
-							possibilité de  prendre rendez-vous entre 12h30 et 14h30
-						</blockquote>
+						<div class="table-wrapper">
+							<table class="alt">
+								<thead>
+									<tr>
+										<th colspan='2'><h3>Nos soins du corps</h3></th>
+									</tr>
+									<tr>
+										<td>Intitulé</td>
+										<td>Prix</td>
+									</tr>
+								</thead>
+								<tbody>
+								<tr>
+									<td colspan='2'><b>Parenthèse évasion du monde</b></td>
+								</tr>
+									<tr>
+										<td>Essentielle</td>
+										<td>1.20€/minute</td>
+									</tr>
+									<tr>
+										<td>Grains de plaisir (30min)</td>
+										<td>35.00€</td>
+									</tr>
+									<tr>
+										<td>Sérénité (50min)</td>
+										<td>45.00€</td>
+									</tr>
+									<tr>
+										<td>Californienne (30 ou 50 min)</td>
+										<td>30.00€ ou 50.00€</td>
+									</tr>
+									<tr>
+										<td>Epicée (30min)</td>
+										<td>44.00€</td>
+									</tr>
+
+									<tr>
+										<td colspan='2'><b>Parenthèse signature</b></td>
+									</tr>
+									<tr>
+										<td>Bougie (1h15)</td>
+										<td>69.00€</td>
+									</tr>
+									<tr>
+										<td>100% sur-mesure (1h15)</td>
+										<td>68.00€</td>
+									</tr>
+									<tr>
+										<td>Hanakasumi (1h15)</td>
+										<td>75.00€</td>
+									</tr>
+									<tr>
+										<td>SOIN EXCELLENCE SECRET  Corps (1h)</td>
+										<td>100.00€</td>
+									</tr>
+								</tbody>
+							</table>
+						</div>
 					</div>
 				</section>
 
 				<section>
-				<h2>Contact</h2>
-				<p>Certaines de vos questions n'ont pas de réponses ? Contactez nous.</p>
-				<ul class="contact">
-					<li class="fa-envelope-o"><a href="mailto:institutharmonychavagnes@gmail.com">institutharmonychavagnes@gmail.com</a></li>
-					<li class="fa-phone">02 51 42 70 42</li>
-					<li class="fa-home">HARMONY <br /> 93 bis route nationale <br /> Saint Fulgent, 85250</li>
-				</ul>
-				<!-- Footer -->
+					<h2>Contact</h2>
+					<p>Certaines de vos questions n'ont pas de réponses ? Contactez nous.</p>
+					<ul class="contact">
+						<li class="fa-envelope-o"><a href="mailto:institutharmonychavagnes@gmail.com">institutharmonychavagnes@gmail.com</a></li>
+						<li class="fa-phone">02 51 42 70 42</li>
+						<li class="fa-home">HARMONY <br /> 93 bis route nationale <br /> Saint Fulgent, 85250</li>
+					</ul>
+					<!-- Footer -->
 					<p class="copyright">&copy; 2017. Institut de Beauté 85. </p>
 				</section>
 
@@ -153,11 +197,11 @@
 	<script>
 	$(document).ready(function(){
 		$('.bxslider').bxSlider({
-  mode: 'fade',
-  captions: true,
-  auto: true,
-  autoControls: true
-});
+			mode: 'fade',
+			captions: true,
+			auto: true,
+			autoControls: true
+		});
 	});
 	</script>
 
