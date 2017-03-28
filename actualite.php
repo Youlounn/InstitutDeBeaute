@@ -90,7 +90,7 @@
             <h2>Menu</h2>
           </header>
           <ul>
-            <li><a id="menuacceuil">Acceuil</a></li>
+            <li><a href="index.php">Acceuil</a></li>
             <li>
               <span class="opener">Nos instituts</span>
               <ul>

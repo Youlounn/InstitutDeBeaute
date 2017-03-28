@@ -32,8 +32,8 @@
 					<div class="content">
 
 						<ul class="bxslider" style="width: auto; position: relative;">
-							<li><img src="images/pic01.jpg" title="Institut de beauté de Chavagnes en Paillers" /></li>
-							<li><img src="images/pic05.jpg" title="Institut de beauté de Chavagnes en Paillers" /></li>
+							<li><center><img src="images/pic01.jpg" title="Institut de beauté de Chavagnes en Paillers" /></center></li>
+							<li><center><img src="images/pic05.jpg" title="Institut de beauté de Chavagnes en Paillers" /></center></li>
 						</ul>
 						<header>
 							<h2>Institut de beauté Chavagnes en paillers</h2>
@@ -82,7 +82,7 @@
 						<h2>Menu</h2>
 					</header>
 					<ul>
-						<li><a id="menuacceuil">Acceuil</a></li>
+						<li><a href="index.php">Acceuil</a></li>
 						<li>
 							<span class="opener">Nos instituts</span>
 							<ul>

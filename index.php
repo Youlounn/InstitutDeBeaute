@@ -32,10 +32,10 @@
 					<div class="content">
 
 						<ul class="bxslider" style="width: auto; position: relative;">
-							<li><img src="images/pic01.jpg" title="Institut de beauté de Chavagnes en Paillers" /></li>
-							<li><img src="images/pic02.jpg" title="Institut de Beauté Aqualigne des Essarts" /></li>
-							<li><img src="images/pic03.jpg" title="Institut de beauté à St Georges de Montaigu" /></li>
-							<li><img src="images/pic04.jpg" title="Institut de beauté de St Fulgent" /></li>
+							<li><center><img src="images/pic01.jpg" title="Institut de beauté de Chavagnes en Paillers" /></center></li>
+							<li><center><img src="images/pic02.jpg" title="Institut de Beauté Aqualigne des Essarts" /></center></li>
+							<li><center><img src="images/pic03.jpg" title="Institut de beauté à St Georges de Montaigu" /></center></li>
+							<li><center><img src="images/pic04.jpg" title="Institut de beauté de St Fulgent" /></center></li>
 						</ul>
 						<header>
 							<h2>St Fulgent – Chavagnes en paillers – Les Essarts – St Georges de Montaigu</h2>
@@ -85,7 +85,7 @@
 						<h2>Menu</h2>
 					</header>
 					<ul>
-						<li><a id="menuacceuil">Acceuil</a></li>
+						<li><a href="index.php">Acceuil</a></li>
 						<li>
 							<span class="opener">Nos instituts</span>
 							<ul>
